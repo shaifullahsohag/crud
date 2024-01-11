@@ -1,0 +1,19 @@
+.manage_members{
+	width: 50%;
+	margin: auto;
+}
+
+table{
+	width: 100%;
+	margin-top: 20px;
+}
+
+fieldset{
+	width: 50%;
+	margin-top: 100px;
+	margin: auto;
+}
+
+table tr th {
+	padding-top: 20px;
+}
